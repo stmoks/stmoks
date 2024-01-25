@@ -5,6 +5,10 @@
   - Airflow, AWS, Spark
 
 - Skills
+    - Python
+    - SQL
+    - PowerBI
+    
 - Projects
 
   - Capitals and Countries
@@ -14,4 +18,6 @@
   - Kindle Summary
 
 - Hobbies
-- Reach me on
+  - Language learning
+  - Music
+  - Dance
