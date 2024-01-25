@@ -1,15 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
   - Airflow, AWS, Spark
 
-- Skills
+## 🔨Skills
     - Python
     - SQL
     - PowerBI
     
-- Projects
+## 📚Projects
 
   - Capitals and Countries
 
@@ -17,7 +17,7 @@
 
   - Kindle Summary
 
-- Hobbies
+## 🏃‍♂️Hobbies
   - Language learning
   - Music
   - Dance
