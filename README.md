@@ -1,16 +1,18 @@
 ## 🌱 I’m currently learning ...
 
   - Airflow
+    
   - AWS
-  -  Spark
+    
+  - Spark
 
 ## 🔨Skills
 
-    - Python
+  - Python
     
-    - SQL
+  - SQL
     
-    - PowerBI
+  - PowerBI
     
 ## 📚Projects
 
@@ -22,5 +24,7 @@
 
 ## 🏃‍♂️Hobbies
   - Language learning
+    
   - Music
+    
   - Dance
