@@ -1,12 +1,15 @@
-## Hi there 👋
-
 ## 🌱 I’m currently learning ...
 
-  - Airflow, AWS, Spark
+  - Airflow
+  - AWS
+  -  Spark
 
 ## 🔨Skills
+
     - Python
+    
     - SQL
+    
     - PowerBI
     
 ## 📚Projects
