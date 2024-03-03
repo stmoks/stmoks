@@ -1,10 +1,10 @@
 ## 🌱 I’m currently learning ...
 
-  - Airflow
+  - Docker
     
-  - AWS
+  - dKron
     
-  - Spark
+  - Linux
 
 ## 🔨Skills
 
@@ -12,7 +12,7 @@
     
   - SQL
     
-  - PowerBI
+  - PowerBI/AWS QuickSight
     
 ## 📚Projects
 
@@ -20,7 +20,7 @@
 
   - YouTube Trending
 
-  - Kindle Summary
+  - Kindle Highlight View
 
 ## 🏃‍♂️Hobbies
   - Language learning
