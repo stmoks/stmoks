@@ -1,18 +1,14 @@
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently working with ...
 
-  - Docker
+  - Docker + Linux
+
+  - Timescale/PostgreSQL - db migration
     
-  - dKron
-    
-  - Linux
+  - Python - polars, pandas, folium, cuallee
 
 ## 🔨Skills
 
-  - Python
-    
-  - SQL
-    
-  - PowerBI/AWS QuickSight
+  - Python, SQL, PowerBI/AWS QuickSight, Writing, 
     
 ## 📚Projects
 
@@ -20,11 +16,7 @@
 
   - YouTube Trending
 
-  - Kindle Highlight View
+  - Kindle Highlights View
 
 ## 🏃‍♂️Hobbies
-  - Language learning
-    
-  - Music
-    
-  - Dance
+  - Language learning, Music, Dance
