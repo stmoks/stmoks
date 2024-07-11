@@ -2,7 +2,7 @@
 
   - Docker + Linux
 
-  - Timescale/PostgreSQL - db migration
+  - Mysql + Timescale/PostgreSQL - db migration
     
   - Python - polars, pandas, folium, cuallee
 
