@@ -1,6 +1,6 @@
 ## 🌱 I’m currently working with ...
 
-  - Docker + Linux
+  - Docker + Linux, bash
 
   - Mysql + Timescale/PostgreSQL - db migration
     
